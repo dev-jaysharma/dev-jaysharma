@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **motion and next**
 
-- 👨‍💻 All of my projects are available at [jaysharma.vercel.app](jaysharma.vercel.app)
+- 👨‍💻 All of my projects are available at [jaysharma.vercel.app](https://jaysharma.vercel.app)
 
 - 💬 Ask me about **react next gsap motion**
 
